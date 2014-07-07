@@ -1,0 +1,24 @@
+Units	Topics	Released	Deadline	Lectures	Homework	Handouts
+Week 1: Introduction	Introduction & Overview - Overview, Design Goals, the Mongo Shell, JSON Intro, installing tools, overview of blog project. Bottle, Pymongo	 Jun 24, 2014 
+05:00 PM UTC	 Jul 01, 2014 
+05:00 PM UTC	2 hrs	3 hrs	Download
+Week 2: CRUD	CRUD (Creating, Reading and Updating Data) - Mongo shell, query operators, update operators and a few commands	 Jul 01, 2014 
+05:00 PM UTC	 Jul 08, 2014 
+05:00 PM UTC	2.5 hrs	3 hrs	Download
+Week 3: Schema Design	Schema Design - Patterns, case studies and tradeoffs	 Jul 08, 2014 
+05:00 PM UTC	 Jul 15, 2014 
+05:00 PM UTC	1 hrs	3 hrs	 Not Yet Available
+Week 4: Performance	Using indexes, monitoring and understanding performance. Performance in sharded environments.	 Jul 15, 2014 
+05:00 PM UTC	 Jul 22, 2014 
+05:00 PM UTC	1.75 hrs	3 hrs	 Not Yet Available
+Week 5: Aggregation Framework	Goals, the use of the pipeline, comparison with SQL facilities.	 Jul 22, 2014 
+05:00 PM UTC	 Jul 29, 2014 
+05:00 PM UTC	1.75 hrs	3 hrs	 Not Yet Available
+Week 6: Application Engineering	Drivers, impact of replication and Sharding on design and development.	 Jul 29, 2014 
+05:00 PM UTC	 Aug 05, 2014 
+05:00 PM UTC	1.5 hrs	3 hrs	 Not Yet Available
+Week 7 - Case Studies	Interview with Jon Hoffman, foursquare and interview with Ryan Bubunksi, codecademy	 Aug 05, 2014 
+05:00 PM UTC	 N/A	1.75 hrs	0 hrs	 No handouts
+Final Exam		 Aug 05, 2014 
+05:00 PM UTC	 Aug 12, 2014 
+05:00 PM UTC	0 hrs	3 hrs	 Not Yet Available
